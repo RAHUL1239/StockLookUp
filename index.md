@@ -1,4 +1,7 @@
-# Stock Alert Service
+---
+layout: page
+title: Stock Alert Service
+---
 
 We provide stock trading alerts based on volume concentration signals and market data analysis.
 
@@ -25,8 +28,8 @@ This service is for informational purposes only and does not constitute financia
 
 ## Legal
 
-* [Privacy Policy](./PRIVACY.md)
-* [Terms of Service](./TERMS.md)
+* [Privacy Policy]({{ '/PRIVACY/' | relative_url }})
+* [Terms of Service]({{ '/TERMS/' | relative_url }})
 
 ## Contact
 

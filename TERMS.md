@@ -1,4 +1,8 @@
-# Terms of Service
+---
+layout: page
+title: Terms of Service
+permalink: /TERMS/
+---
 
 **Last updated:** May 2026
 
