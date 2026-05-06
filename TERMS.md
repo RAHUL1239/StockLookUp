@@ -24,12 +24,15 @@ The service is provided for informational purposes only.
 
 ## 4. SMS Program Terms
 
-By opting in to receive SMS alerts:
+By opting in to receive SMS alerts, you consent to receive messages from us.
+
+Users opt in to receive SMS alerts by submitting their phone number through our website or application.
 
 * Message frequency varies
 * Message and data rates may apply
 * You can opt out anytime by replying **STOP**
 * Reply **HELP** for assistance
+* Carriers are not liable for delayed or undelivered messages.
 
 ## 5. User Responsibility
 

@@ -32,14 +32,17 @@ We use your information to:
 
 By providing your phone number, you consent to receive SMS messages from us.
 
+Users opt in to receive messages by submitting their phone number on our website or application.
+
 * Message frequency varies
 * Message and data rates may apply
 * You can opt out at any time by replying **STOP**
 * You can get help by replying **HELP**
+* Carriers are not liable for delayed or undelivered messages.
 
 ## 5. Data Sharing
 
-We do **not sell, rent, or share** your personal information with third parties.
+We do not sell, rent, or share your phone number or personal information with third parties for marketing or promotional purposes.
 
 We may use third-party services (such as SMS providers) solely to deliver messages.
 
