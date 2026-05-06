@@ -1,2 +1,0 @@
-# StockLookUp
-stocks lookup app
